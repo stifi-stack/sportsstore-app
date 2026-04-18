@@ -1,0 +1,11 @@
+bin/
+obj/
+Migrations/
+wwwroot/lib/
+*.user
+*.Development.json
+appsettings.Development.json
+.DS_Store
+*.suo
+*.user
+*.lock.json
